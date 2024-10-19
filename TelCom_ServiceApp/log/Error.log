@@ -1,0 +1,469 @@
+24-Aug-2024 21:46:25 INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+24-Aug-2024 21:46:25 INFO - Initializing Servlet 'dispatcherServlet'
+24-Aug-2024 21:46:25 INFO - Completed initialization in 1 ms
+24-Aug-2024 21:46:25 INFO - Header : null
+24-Aug-2024 21:46:25 INFO - Invalid Header Value !!
+24-Aug-2024 21:46:25 INFO - Sending Email To sahu58kamlesh@gmail.com
+24-Aug-2024 21:46:28 WARN - Resolved [org.springframework.mail.MailAuthenticationException: Authentication failed]
+24-Aug-2024 21:47:41 INFO - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+24-Aug-2024 21:47:41 INFO - Stopping ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 21:47:41 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+24-Aug-2024 21:47:41 INFO - HikariPool-5 - Shutdown initiated...
+24-Aug-2024 21:47:41 INFO - HikariPool-5 - Shutdown completed.
+24-Aug-2024 21:47:41 INFO - Starting TelComMicroServiceAppApplication using Java 21.0.3 with PID 36104 (C:\Users\sahu5\Downloads\TelComMicroServiceApp (1)\TelComMicroServiceApp\target\classes started by sahu5 in C:\Users\sahu5\Downloads\TelComMicroServiceApp (1)\TelComMicroServiceApp)
+24-Aug-2024 21:47:41 INFO - No active profile set, falling back to 1 default profile: "default"
+24-Aug-2024 21:47:41 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+24-Aug-2024 21:47:41 INFO - Finished Spring Data repository scanning in 16 ms. Found 3 JPA repository interfaces.
+24-Aug-2024 21:47:42 INFO - Tomcat initialized with port 9000 (http)
+24-Aug-2024 21:47:42 INFO - Initializing ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 21:47:42 INFO - Starting service [Tomcat]
+24-Aug-2024 21:47:42 INFO - Starting Servlet engine: [Apache Tomcat/10.1.28]
+24-Aug-2024 21:47:42 INFO - Initializing Spring embedded WebApplicationContext
+24-Aug-2024 21:47:42 INFO - Root WebApplicationContext: initialization completed in 374 ms
+24-Aug-2024 21:47:42 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+24-Aug-2024 21:47:42 INFO - HHH000026: Second-level cache disabled
+24-Aug-2024 21:47:42 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+24-Aug-2024 21:47:42 INFO - HikariPool-6 - Starting...
+24-Aug-2024 21:47:42 INFO - HikariPool-6 - Added connection org.postgresql.jdbc.PgConnection@5806abc7
+24-Aug-2024 21:47:42 INFO - HikariPool-6 - Start completed.
+24-Aug-2024 21:47:42 WARN - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+24-Aug-2024 21:47:42 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+24-Aug-2024 21:47:42 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+24-Aug-2024 21:47:42 INFO - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+24-Aug-2024 21:47:42 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+24-Aug-2024 21:47:42 INFO - LiveReload server is running on port 35729
+24-Aug-2024 21:47:42 INFO - Starting ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 21:47:42 INFO - Tomcat started on port 9000 (http) with context path '/'
+24-Aug-2024 21:47:42 INFO - Started TelComMicroServiceAppApplication in 0.798 seconds (process running for 297.625)
+24-Aug-2024 21:47:42 INFO - Condition evaluation unchanged
+24-Aug-2024 21:47:45 INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+24-Aug-2024 21:47:45 INFO - Initializing Servlet 'dispatcherServlet'
+24-Aug-2024 21:47:45 INFO - Completed initialization in 1 ms
+24-Aug-2024 21:47:45 INFO - Header : null
+24-Aug-2024 21:47:45 INFO - Invalid Header Value !!
+24-Aug-2024 21:47:45 INFO - Sending Email To sahu58kamlesh@gmail.com
+24-Aug-2024 21:47:47 WARN - Resolved [org.springframework.mail.MailAuthenticationException: Authentication failed]
+24-Aug-2024 21:49:49 INFO - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+24-Aug-2024 21:49:49 INFO - Stopping ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 21:49:49 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+24-Aug-2024 21:49:49 INFO - HikariPool-6 - Shutdown initiated...
+24-Aug-2024 21:49:49 INFO - HikariPool-6 - Shutdown completed.
+24-Aug-2024 21:49:49 INFO - Starting TelComMicroServiceAppApplication using Java 21.0.3 with PID 36104 (C:\Users\sahu5\Downloads\TelComMicroServiceApp (1)\TelComMicroServiceApp\target\classes started by sahu5 in C:\Users\sahu5\Downloads\TelComMicroServiceApp (1)\TelComMicroServiceApp)
+24-Aug-2024 21:49:49 INFO - No active profile set, falling back to 1 default profile: "default"
+24-Aug-2024 21:49:50 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+24-Aug-2024 21:49:50 INFO - Finished Spring Data repository scanning in 24 ms. Found 3 JPA repository interfaces.
+24-Aug-2024 21:49:50 INFO - Tomcat initialized with port 9000 (http)
+24-Aug-2024 21:49:50 INFO - Initializing ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 21:49:50 INFO - Starting service [Tomcat]
+24-Aug-2024 21:49:50 INFO - Starting Servlet engine: [Apache Tomcat/10.1.28]
+24-Aug-2024 21:49:50 INFO - Initializing Spring embedded WebApplicationContext
+24-Aug-2024 21:49:50 INFO - Root WebApplicationContext: initialization completed in 497 ms
+24-Aug-2024 21:49:50 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+24-Aug-2024 21:49:50 INFO - HHH000026: Second-level cache disabled
+24-Aug-2024 21:49:50 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+24-Aug-2024 21:49:50 INFO - HikariPool-7 - Starting...
+24-Aug-2024 21:49:50 INFO - HikariPool-7 - Added connection org.postgresql.jdbc.PgConnection@33a35488
+24-Aug-2024 21:49:50 INFO - HikariPool-7 - Start completed.
+24-Aug-2024 21:49:50 WARN - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+24-Aug-2024 21:49:50 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+24-Aug-2024 21:49:50 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+24-Aug-2024 21:49:51 INFO - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+24-Aug-2024 21:49:51 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+24-Aug-2024 21:49:51 INFO - LiveReload server is running on port 35729
+24-Aug-2024 21:49:51 INFO - Starting ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 21:49:51 INFO - Tomcat started on port 9000 (http) with context path '/'
+24-Aug-2024 21:49:51 INFO - Started TelComMicroServiceAppApplication in 1.507 seconds (process running for 426.425)
+24-Aug-2024 21:49:51 INFO - Condition evaluation unchanged
+24-Aug-2024 21:49:52 INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+24-Aug-2024 21:49:52 INFO - Initializing Servlet 'dispatcherServlet'
+24-Aug-2024 21:49:52 INFO - Completed initialization in 2 ms
+24-Aug-2024 21:49:52 INFO - Header : null
+24-Aug-2024 21:49:52 INFO - Invalid Header Value !!
+24-Aug-2024 21:49:52 INFO - Sending Email To sahu58kamlesh@gmail.com
+24-Aug-2024 21:49:55 WARN - Resolved [org.springframework.mail.MailAuthenticationException: Authentication failed]
+24-Aug-2024 21:54:34 INFO - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+24-Aug-2024 21:54:34 INFO - Stopping ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 21:54:34 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+24-Aug-2024 21:54:34 INFO - HikariPool-7 - Shutdown initiated...
+24-Aug-2024 21:54:34 INFO - HikariPool-7 - Shutdown completed.
+24-Aug-2024 21:54:35 INFO - Starting TelComMicroServiceAppApplication using Java 21.0.3 with PID 36104 (C:\Users\sahu5\Downloads\TelComMicroServiceApp (1)\TelComMicroServiceApp\target\classes started by sahu5 in C:\Users\sahu5\Downloads\TelComMicroServiceApp (1)\TelComMicroServiceApp)
+24-Aug-2024 21:54:35 INFO - No active profile set, falling back to 1 default profile: "default"
+24-Aug-2024 21:54:35 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+24-Aug-2024 21:54:35 INFO - Finished Spring Data repository scanning in 15 ms. Found 3 JPA repository interfaces.
+24-Aug-2024 21:54:35 INFO - Tomcat initialized with port 9000 (http)
+24-Aug-2024 21:54:35 INFO - Initializing ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 21:54:35 INFO - Starting service [Tomcat]
+24-Aug-2024 21:54:35 INFO - Starting Servlet engine: [Apache Tomcat/10.1.28]
+24-Aug-2024 21:54:35 INFO - Initializing Spring embedded WebApplicationContext
+24-Aug-2024 21:54:35 INFO - Root WebApplicationContext: initialization completed in 356 ms
+24-Aug-2024 21:54:35 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+24-Aug-2024 21:54:35 INFO - HHH000026: Second-level cache disabled
+24-Aug-2024 21:54:35 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+24-Aug-2024 21:54:35 INFO - HikariPool-8 - Starting...
+24-Aug-2024 21:54:35 INFO - HikariPool-8 - Added connection org.postgresql.jdbc.PgConnection@4b3a497d
+24-Aug-2024 21:54:35 INFO - HikariPool-8 - Start completed.
+24-Aug-2024 21:54:35 WARN - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+24-Aug-2024 21:54:35 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+24-Aug-2024 21:54:35 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+24-Aug-2024 21:54:35 INFO - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+24-Aug-2024 21:54:35 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+24-Aug-2024 21:54:36 INFO - LiveReload server is running on port 35729
+24-Aug-2024 21:54:36 INFO - Starting ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 21:54:36 INFO - Tomcat started on port 9000 (http) with context path '/'
+24-Aug-2024 21:54:36 INFO - Started TelComMicroServiceAppApplication in 1.144 seconds (process running for 711.243)
+24-Aug-2024 21:54:36 INFO - Condition evaluation unchanged
+24-Aug-2024 21:54:39 INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+24-Aug-2024 21:54:39 INFO - Initializing Servlet 'dispatcherServlet'
+24-Aug-2024 21:54:39 INFO - Completed initialization in 3 ms
+24-Aug-2024 21:54:39 INFO - Header : null
+24-Aug-2024 21:54:39 INFO - Invalid Header Value !!
+24-Aug-2024 21:54:39 INFO - Sending Email To sahu58kamlesh@gmail.com
+24-Aug-2024 21:54:41 WARN - Resolved [org.springframework.mail.MailAuthenticationException: Authentication failed]
+24-Aug-2024 21:56:50 INFO - Header : null
+24-Aug-2024 21:56:50 INFO - Invalid Header Value !!
+24-Aug-2024 21:56:50 INFO - Sending Email To sahu58kamlesh@gmail.com
+24-Aug-2024 21:56:52 WARN - Resolved [org.springframework.mail.MailAuthenticationException: Authentication failed]
+24-Aug-2024 21:58:38 INFO - Header : null
+24-Aug-2024 21:58:38 INFO - Invalid Header Value !!
+24-Aug-2024 21:58:38 INFO - Sending Email To sahu58kamlesh@gmail.com
+24-Aug-2024 21:58:41 WARN - Resolved [org.springframework.mail.MailAuthenticationException: Authentication failed]
+24-Aug-2024 22:05:45 INFO - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+24-Aug-2024 22:05:45 INFO - Stopping ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 22:05:45 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+24-Aug-2024 22:05:45 INFO - HikariPool-8 - Shutdown initiated...
+24-Aug-2024 22:05:45 INFO - HikariPool-8 - Shutdown completed.
+24-Aug-2024 22:05:45 INFO - Starting TelComMicroServiceAppApplication using Java 21.0.3 with PID 36104 (C:\Users\sahu5\Downloads\TelComMicroServiceApp (1)\TelComMicroServiceApp\target\classes started by sahu5 in C:\Users\sahu5\Downloads\TelComMicroServiceApp (1)\TelComMicroServiceApp)
+24-Aug-2024 22:05:45 INFO - No active profile set, falling back to 1 default profile: "default"
+24-Aug-2024 22:05:45 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+24-Aug-2024 22:05:45 INFO - Finished Spring Data repository scanning in 11 ms. Found 3 JPA repository interfaces.
+24-Aug-2024 22:05:45 INFO - Tomcat initialized with port 9000 (http)
+24-Aug-2024 22:05:45 INFO - Initializing ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 22:05:45 INFO - Starting service [Tomcat]
+24-Aug-2024 22:05:45 INFO - Starting Servlet engine: [Apache Tomcat/10.1.28]
+24-Aug-2024 22:05:45 INFO - Initializing Spring embedded WebApplicationContext
+24-Aug-2024 22:05:45 INFO - Root WebApplicationContext: initialization completed in 233 ms
+24-Aug-2024 22:05:45 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+24-Aug-2024 22:05:45 INFO - HHH000026: Second-level cache disabled
+24-Aug-2024 22:05:45 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+24-Aug-2024 22:05:45 INFO - HikariPool-9 - Starting...
+24-Aug-2024 22:05:45 INFO - HikariPool-9 - Added connection org.postgresql.jdbc.PgConnection@61cfb6fc
+24-Aug-2024 22:05:45 INFO - HikariPool-9 - Start completed.
+24-Aug-2024 22:05:45 WARN - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+24-Aug-2024 22:05:45 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+24-Aug-2024 22:05:45 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+24-Aug-2024 22:05:45 INFO - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+24-Aug-2024 22:05:45 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+24-Aug-2024 22:05:45 INFO - LiveReload server is running on port 35729
+24-Aug-2024 22:05:45 INFO - Starting ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 22:05:45 INFO - Tomcat started on port 9000 (http) with context path '/'
+24-Aug-2024 22:05:45 INFO - Started TelComMicroServiceAppApplication in 0.661 seconds (process running for 1381.136)
+24-Aug-2024 22:05:45 INFO - Condition evaluation unchanged
+24-Aug-2024 22:05:49 INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+24-Aug-2024 22:05:49 INFO - Initializing Servlet 'dispatcherServlet'
+24-Aug-2024 22:05:49 INFO - Completed initialization in 1 ms
+24-Aug-2024 22:05:49 INFO - Header : null
+24-Aug-2024 22:05:49 INFO - Invalid Header Value !!
+24-Aug-2024 22:05:49 INFO - Sending Email To sahu58kamlesh@gmail.com
+24-Aug-2024 22:05:52 WARN - Resolved [org.springframework.mail.MailAuthenticationException: Authentication failed]
+24-Aug-2024 22:06:46 INFO - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+24-Aug-2024 22:06:46 INFO - Stopping ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 22:06:46 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+24-Aug-2024 22:06:46 INFO - HikariPool-9 - Shutdown initiated...
+24-Aug-2024 22:06:46 INFO - HikariPool-9 - Shutdown completed.
+24-Aug-2024 22:06:46 INFO - Starting TelComMicroServiceAppApplication using Java 21.0.3 with PID 36104 (C:\Users\sahu5\Downloads\TelComMicroServiceApp (1)\TelComMicroServiceApp\target\classes started by sahu5 in C:\Users\sahu5\Downloads\TelComMicroServiceApp (1)\TelComMicroServiceApp)
+24-Aug-2024 22:06:46 INFO - No active profile set, falling back to 1 default profile: "default"
+24-Aug-2024 22:06:47 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+24-Aug-2024 22:06:47 INFO - Finished Spring Data repository scanning in 16 ms. Found 3 JPA repository interfaces.
+24-Aug-2024 22:06:47 INFO - Tomcat initialized with port 9000 (http)
+24-Aug-2024 22:06:47 INFO - Initializing ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 22:06:47 INFO - Starting service [Tomcat]
+24-Aug-2024 22:06:47 INFO - Starting Servlet engine: [Apache Tomcat/10.1.28]
+24-Aug-2024 22:06:47 INFO - Initializing Spring embedded WebApplicationContext
+24-Aug-2024 22:06:47 INFO - Root WebApplicationContext: initialization completed in 364 ms
+24-Aug-2024 22:06:47 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+24-Aug-2024 22:06:47 INFO - HHH000026: Second-level cache disabled
+24-Aug-2024 22:06:47 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+24-Aug-2024 22:06:47 INFO - HikariPool-10 - Starting...
+24-Aug-2024 22:06:47 INFO - HikariPool-10 - Added connection org.postgresql.jdbc.PgConnection@19bad9
+24-Aug-2024 22:06:47 INFO - HikariPool-10 - Start completed.
+24-Aug-2024 22:06:47 WARN - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+24-Aug-2024 22:06:47 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+24-Aug-2024 22:06:47 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+24-Aug-2024 22:06:47 INFO - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+24-Aug-2024 22:06:47 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+24-Aug-2024 22:06:48 INFO - LiveReload server is running on port 35729
+24-Aug-2024 22:06:48 INFO - Starting ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 22:06:48 INFO - Tomcat started on port 9000 (http) with context path '/'
+24-Aug-2024 22:06:48 INFO - Started TelComMicroServiceAppApplication in 1.264 seconds (process running for 1443.243)
+24-Aug-2024 22:06:48 INFO - Condition evaluation unchanged
+24-Aug-2024 22:06:50 INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+24-Aug-2024 22:06:50 INFO - Initializing Servlet 'dispatcherServlet'
+24-Aug-2024 22:06:50 INFO - Completed initialization in 1 ms
+24-Aug-2024 22:06:50 INFO - Header : null
+24-Aug-2024 22:06:50 INFO - Invalid Header Value !!
+24-Aug-2024 22:06:50 INFO - Sending Email To sahu58kamlesh@gmail.com
+24-Aug-2024 22:06:52 WARN - Resolved [org.springframework.mail.MailAuthenticationException: Authentication failed]
+24-Aug-2024 22:07:52 INFO - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+24-Aug-2024 22:07:52 INFO - Stopping ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 22:07:52 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+24-Aug-2024 22:07:52 INFO - HikariPool-10 - Shutdown initiated...
+24-Aug-2024 22:07:52 INFO - HikariPool-10 - Shutdown completed.
+24-Aug-2024 22:07:52 INFO - Starting TelComMicroServiceAppApplication using Java 21.0.3 with PID 36104 (C:\Users\sahu5\Downloads\TelComMicroServiceApp (1)\TelComMicroServiceApp\target\classes started by sahu5 in C:\Users\sahu5\Downloads\TelComMicroServiceApp (1)\TelComMicroServiceApp)
+24-Aug-2024 22:07:52 INFO - No active profile set, falling back to 1 default profile: "default"
+24-Aug-2024 22:07:52 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+24-Aug-2024 22:07:52 INFO - Finished Spring Data repository scanning in 25 ms. Found 3 JPA repository interfaces.
+24-Aug-2024 22:07:53 INFO - Tomcat initialized with port 9000 (http)
+24-Aug-2024 22:07:53 INFO - Initializing ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 22:07:53 INFO - Starting service [Tomcat]
+24-Aug-2024 22:07:53 INFO - Starting Servlet engine: [Apache Tomcat/10.1.28]
+24-Aug-2024 22:07:53 INFO - Initializing Spring embedded WebApplicationContext
+24-Aug-2024 22:07:53 INFO - Root WebApplicationContext: initialization completed in 478 ms
+24-Aug-2024 22:07:53 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+24-Aug-2024 22:07:53 INFO - HHH000026: Second-level cache disabled
+24-Aug-2024 22:07:53 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+24-Aug-2024 22:07:53 INFO - HikariPool-11 - Starting...
+24-Aug-2024 22:07:53 INFO - HikariPool-11 - Added connection org.postgresql.jdbc.PgConnection@4ac783cc
+24-Aug-2024 22:07:53 INFO - HikariPool-11 - Start completed.
+24-Aug-2024 22:07:53 WARN - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+24-Aug-2024 22:07:53 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+24-Aug-2024 22:07:53 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+24-Aug-2024 22:07:53 INFO - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+24-Aug-2024 22:07:53 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+24-Aug-2024 22:07:53 INFO - LiveReload server is running on port 35729
+24-Aug-2024 22:07:53 INFO - Starting ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 22:07:53 INFO - Tomcat started on port 9000 (http) with context path '/'
+24-Aug-2024 22:07:53 INFO - Started TelComMicroServiceAppApplication in 1.037 seconds (process running for 1508.656)
+24-Aug-2024 22:07:53 INFO - Condition evaluation unchanged
+24-Aug-2024 22:07:55 INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+24-Aug-2024 22:07:55 INFO - Initializing Servlet 'dispatcherServlet'
+24-Aug-2024 22:07:55 INFO - Completed initialization in 2 ms
+24-Aug-2024 22:07:55 INFO - Header : null
+24-Aug-2024 22:07:55 INFO - Invalid Header Value !!
+24-Aug-2024 22:07:55 INFO - Sending Email To sahu58kamlesh@gmail.com
+24-Aug-2024 22:07:57 WARN - Resolved [org.springframework.mail.MailAuthenticationException: Authentication failed]
+24-Aug-2024 22:08:09 INFO - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+24-Aug-2024 22:08:09 INFO - Stopping ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 22:08:09 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+24-Aug-2024 22:08:09 INFO - HikariPool-11 - Shutdown initiated...
+24-Aug-2024 22:08:09 INFO - HikariPool-11 - Shutdown completed.
+24-Aug-2024 22:08:09 INFO - Starting TelComMicroServiceAppApplication using Java 21.0.3 with PID 36104 (C:\Users\sahu5\Downloads\TelComMicroServiceApp (1)\TelComMicroServiceApp\target\classes started by sahu5 in C:\Users\sahu5\Downloads\TelComMicroServiceApp (1)\TelComMicroServiceApp)
+24-Aug-2024 22:08:09 INFO - No active profile set, falling back to 1 default profile: "default"
+24-Aug-2024 22:08:10 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+24-Aug-2024 22:08:10 INFO - Finished Spring Data repository scanning in 16 ms. Found 3 JPA repository interfaces.
+24-Aug-2024 22:08:10 INFO - Tomcat initialized with port 9000 (http)
+24-Aug-2024 22:08:10 INFO - Initializing ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 22:08:10 INFO - Starting service [Tomcat]
+24-Aug-2024 22:08:10 INFO - Starting Servlet engine: [Apache Tomcat/10.1.28]
+24-Aug-2024 22:08:10 INFO - Initializing Spring embedded WebApplicationContext
+24-Aug-2024 22:08:10 INFO - Root WebApplicationContext: initialization completed in 383 ms
+24-Aug-2024 22:08:10 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+24-Aug-2024 22:08:10 INFO - HHH000026: Second-level cache disabled
+24-Aug-2024 22:08:10 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+24-Aug-2024 22:08:10 INFO - HikariPool-12 - Starting...
+24-Aug-2024 22:08:10 INFO - HikariPool-12 - Added connection org.postgresql.jdbc.PgConnection@1cc1a404
+24-Aug-2024 22:08:10 INFO - HikariPool-12 - Start completed.
+24-Aug-2024 22:08:10 WARN - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+24-Aug-2024 22:08:10 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+24-Aug-2024 22:08:10 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+24-Aug-2024 22:08:10 INFO - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+24-Aug-2024 22:08:10 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+24-Aug-2024 22:08:10 INFO - LiveReload server is running on port 35729
+24-Aug-2024 22:08:10 INFO - Starting ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 22:08:10 INFO - Tomcat started on port 9000 (http) with context path '/'
+24-Aug-2024 22:08:10 INFO - Started TelComMicroServiceAppApplication in 1.133 seconds (process running for 1526.05)
+24-Aug-2024 22:08:10 INFO - Condition evaluation unchanged
+24-Aug-2024 22:08:13 INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+24-Aug-2024 22:08:13 INFO - Initializing Servlet 'dispatcherServlet'
+24-Aug-2024 22:08:13 INFO - Completed initialization in 1 ms
+24-Aug-2024 22:08:13 INFO - Header : null
+24-Aug-2024 22:08:13 INFO - Invalid Header Value !!
+24-Aug-2024 22:08:13 INFO - Sending Email To sahu58kamlesh@gmail.com
+24-Aug-2024 22:08:16 WARN - Resolved [org.springframework.mail.MailAuthenticationException: Authentication failed]
+24-Aug-2024 22:09:36 INFO - Header : null
+24-Aug-2024 22:09:36 INFO - Invalid Header Value !!
+24-Aug-2024 22:09:36 INFO - Sending Email To sahu58kamlesh@gmail.com
+24-Aug-2024 22:09:38 WARN - Resolved [org.springframework.mail.MailAuthenticationException: Authentication failed]
+24-Aug-2024 22:55:46 INFO - Application shutdown requested.
+24-Aug-2024 22:55:46 INFO - Stopping ProtocolHandler ["http-nio-9000"]
+24-Aug-2024 22:55:46 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+24-Aug-2024 22:55:46 INFO - HikariPool-12 - Shutdown initiated...
+24-Aug-2024 22:55:46 INFO - HikariPool-12 - Shutdown completed.
+05-Sept-2024 22:02:19 INFO - HV000001: Hibernate Validator 8.0.1.Final
+05-Sept-2024 22:02:19 INFO - Starting TelComMicroServiceAppApplication using Java 21.0.3 with PID 61492 (C:\Users\sahu5\Downloads\TelComMicroServiceApp (1)\TelComMicroServiceApp\target\classes started by sahu5 in C:\Users\sahu5\Downloads\TelComMicroServiceApp (1)\TelComMicroServiceApp)
+05-Sept-2024 22:02:19 INFO - No active profile set, falling back to 1 default profile: "default"
+05-Sept-2024 22:02:19 INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+05-Sept-2024 22:02:19 INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+05-Sept-2024 22:02:20 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+05-Sept-2024 22:02:20 INFO - Finished Spring Data repository scanning in 51 ms. Found 3 JPA repository interfaces.
+05-Sept-2024 22:02:21 INFO - Tomcat initialized with port 9000 (http)
+05-Sept-2024 22:02:21 INFO - Initializing ProtocolHandler ["http-nio-9000"]
+05-Sept-2024 22:02:21 INFO - Starting service [Tomcat]
+05-Sept-2024 22:02:21 INFO - Starting Servlet engine: [Apache Tomcat/10.1.28]
+05-Sept-2024 22:02:21 INFO - Initializing Spring embedded WebApplicationContext
+05-Sept-2024 22:02:21 INFO - Root WebApplicationContext: initialization completed in 1592 ms
+05-Sept-2024 22:02:21 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+05-Sept-2024 22:02:21 INFO - HHH000412: Hibernate ORM core version 6.5.2.Final
+05-Sept-2024 22:02:21 INFO - HHH000026: Second-level cache disabled
+05-Sept-2024 22:02:22 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+05-Sept-2024 22:02:22 INFO - HikariPool-1 - Starting...
+05-Sept-2024 22:02:22 INFO - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@35d0d8b0
+05-Sept-2024 22:02:22 INFO - HikariPool-1 - Start completed.
+05-Sept-2024 22:02:22 WARN - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+05-Sept-2024 22:02:23 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+05-Sept-2024 22:02:23 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+05-Sept-2024 22:02:24 INFO - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+05-Sept-2024 22:02:24 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+05-Sept-2024 22:02:24 INFO - LiveReload server is running on port 35729
+05-Sept-2024 22:02:24 INFO - Starting ProtocolHandler ["http-nio-9000"]
+05-Sept-2024 22:02:24 INFO - Tomcat started on port 9000 (http) with context path '/'
+05-Sept-2024 22:02:24 INFO - Started TelComMicroServiceAppApplication in 5.177 seconds (process running for 6.54)
+05-Sept-2024 22:02:34 INFO - Restarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)
+05-Sept-2024 22:02:34 INFO - Stopping ProtocolHandler ["http-nio-9000"]
+05-Sept-2024 22:02:34 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+05-Sept-2024 22:02:34 INFO - HikariPool-1 - Shutdown initiated...
+05-Sept-2024 22:02:34 INFO - HikariPool-1 - Shutdown completed.
+05-Sept-2024 22:02:34 INFO - Starting TelComMicroServiceAppApplication using Java 21.0.3 with PID 61492 (C:\Users\sahu5\Downloads\TelComMicroServiceApp (1)\TelComMicroServiceApp\target\classes started by sahu5 in C:\Users\sahu5\Downloads\TelComMicroServiceApp (1)\TelComMicroServiceApp)
+05-Sept-2024 22:02:34 INFO - No active profile set, falling back to 1 default profile: "default"
+05-Sept-2024 22:02:34 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+05-Sept-2024 22:02:34 INFO - Finished Spring Data repository scanning in 22 ms. Found 3 JPA repository interfaces.
+05-Sept-2024 22:02:34 INFO - Tomcat initialized with port 9000 (http)
+05-Sept-2024 22:02:34 INFO - Initializing ProtocolHandler ["http-nio-9000"]
+05-Sept-2024 22:02:34 INFO - Starting service [Tomcat]
+05-Sept-2024 22:02:34 INFO - Starting Servlet engine: [Apache Tomcat/10.1.28]
+05-Sept-2024 22:02:35 INFO - Initializing Spring embedded WebApplicationContext
+05-Sept-2024 22:02:35 INFO - Root WebApplicationContext: initialization completed in 419 ms
+05-Sept-2024 22:02:35 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+05-Sept-2024 22:02:35 INFO - HHH000026: Second-level cache disabled
+05-Sept-2024 22:02:35 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+05-Sept-2024 22:02:35 INFO - HikariPool-2 - Starting...
+05-Sept-2024 22:02:35 INFO - HikariPool-2 - Added connection org.postgresql.jdbc.PgConnection@741c8ed7
+05-Sept-2024 22:02:35 INFO - HikariPool-2 - Start completed.
+05-Sept-2024 22:02:35 WARN - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+05-Sept-2024 22:02:35 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+05-Sept-2024 22:02:35 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+05-Sept-2024 22:02:35 INFO - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+05-Sept-2024 22:02:35 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+05-Sept-2024 22:02:35 INFO - LiveReload server is running on port 35729
+05-Sept-2024 22:02:35 INFO - Starting ProtocolHandler ["http-nio-9000"]
+05-Sept-2024 22:02:35 INFO - Tomcat started on port 9000 (http) with context path '/'
+05-Sept-2024 22:02:35 INFO - Started TelComMicroServiceAppApplication in 0.963 seconds (process running for 17.29)
+05-Sept-2024 22:02:35 INFO - Condition evaluation unchanged
+05-Sept-2024 22:03:04 INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+05-Sept-2024 22:03:04 INFO - Initializing Servlet 'dispatcherServlet'
+05-Sept-2024 22:03:04 INFO - Completed initialization in 3 ms
+05-Sept-2024 22:03:04 INFO - Header : null
+05-Sept-2024 22:03:04 INFO - Invalid Header Value !!
+05-Sept-2024 22:03:05 INFO - Entering into Authentication......9131861783
+05-Sept-2024 22:03:05 INFO - Exiting  From Authentication......
+05-Sept-2024 22:03:23 INFO - Header : null
+05-Sept-2024 22:03:23 INFO - Invalid Header Value !!
+05-Sept-2024 22:03:35 INFO - Header : Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI5MTMxODYxNzgzIiwiaWF0IjoxNzI1NTUzOTg1LCJleHAiOjE3MjU1NzE5ODV9.zPUjMZ4sbzAlDQ9-xOgawgfU6fa-VaaSqOvfMtg1BTg-AVXq9bJdJUPEatraVl0EEDKtQYgvkWvo_LoT5YkDOw
+05-Sept-2024 22:03:35 INFO - Plan Details{} 
+05-Sept-2024 22:03:35 INFO - Plan Details[PlanDTO(plainId=1, planName=TEL_60, nationalRate=65, localRate=60), PlanDTO(plainId=2, planName=TEL_30, nationalRate=40, localRate=30), PlanDTO(plainId=3, planName=TEL_10, nationalRate=20, localRate=10)] 
+05-Sept-2024 22:03:54 INFO - Application shutdown requested.
+05-Sept-2024 22:03:54 INFO - Stopping ProtocolHandler ["http-nio-9000"]
+05-Sept-2024 22:03:54 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+05-Sept-2024 22:03:54 INFO - HikariPool-2 - Shutdown initiated...
+05-Sept-2024 22:03:54 INFO - HikariPool-2 - Shutdown completed.
+19-Oct-2024 23:22:41 INFO - HV000001: Hibernate Validator 8.0.1.Final
+19-Oct-2024 23:22:41 INFO - Starting TelComServiceAppApplication using Java 21.0.3 with PID 21812 (C:\Users\sahu5\git\Telecommincation_Application\TelCom_ServiceApp\target\classes started by sahu5 in C:\Users\sahu5\git\Telecommincation_Application\TelCom_ServiceApp)
+19-Oct-2024 23:22:41 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2024 23:22:41 INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+19-Oct-2024 23:22:41 INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+19-Oct-2024 23:22:42 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+19-Oct-2024 23:22:42 INFO - Finished Spring Data repository scanning in 63 ms. Found 3 JPA repository interfaces.
+19-Oct-2024 23:22:42 INFO - Tomcat initialized with port 9000 (http)
+19-Oct-2024 23:22:42 INFO - Initializing ProtocolHandler ["http-nio-9000"]
+19-Oct-2024 23:22:42 INFO - Starting service [Tomcat]
+19-Oct-2024 23:22:42 INFO - Starting Servlet engine: [Apache Tomcat/10.1.30]
+19-Oct-2024 23:22:42 INFO - Initializing Spring embedded WebApplicationContext
+19-Oct-2024 23:22:42 INFO - Root WebApplicationContext: initialization completed in 1493 ms
+19-Oct-2024 23:22:43 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+19-Oct-2024 23:22:43 INFO - HHH000412: Hibernate ORM core version 6.5.3.Final
+19-Oct-2024 23:22:43 INFO - HHH000026: Second-level cache disabled
+19-Oct-2024 23:22:43 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+19-Oct-2024 23:22:43 INFO - HikariPool-1 - Starting...
+19-Oct-2024 23:22:43 INFO - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1629f6aa
+19-Oct-2024 23:22:43 INFO - HikariPool-1 - Start completed.
+19-Oct-2024 23:22:43 WARN - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+19-Oct-2024 23:22:44 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+19-Oct-2024 23:22:45 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+19-Oct-2024 23:22:45 INFO - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+19-Oct-2024 23:22:45 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+19-Oct-2024 23:22:46 INFO - LiveReload server is running on port 35729
+19-Oct-2024 23:22:46 INFO - Starting ProtocolHandler ["http-nio-9000"]
+19-Oct-2024 23:22:46 INFO - Tomcat started on port 9000 (http) with context path '/'
+19-Oct-2024 23:22:46 INFO - Started TelComServiceAppApplication in 5.135 seconds (process running for 6.406)
+19-Oct-2024 23:22:51 INFO - Application shutdown requested.
+19-Oct-2024 23:22:51 INFO - Stopping ProtocolHandler ["http-nio-9000"]
+19-Oct-2024 23:22:51 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+19-Oct-2024 23:22:51 INFO - HikariPool-1 - Shutdown initiated...
+19-Oct-2024 23:22:51 INFO - HikariPool-1 - Shutdown completed.
+19-Oct-2024 23:34:46 INFO - HV000001: Hibernate Validator 8.0.1.Final
+19-Oct-2024 23:34:46 INFO - Starting TelComServiceAppApplication using Java 21.0.3 with PID 1444 (C:\Users\sahu5\git\Telecommincation_Application\TelCom_ServiceApp\target\classes started by sahu5 in C:\Users\sahu5\git\Telecommincation_Application\TelCom_ServiceApp)
+19-Oct-2024 23:34:46 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2024 23:34:46 INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+19-Oct-2024 23:34:46 INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+19-Oct-2024 23:34:47 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+19-Oct-2024 23:34:47 INFO - Finished Spring Data repository scanning in 54 ms. Found 3 JPA repository interfaces.
+19-Oct-2024 23:34:47 INFO - Tomcat initialized with port 9000 (http)
+19-Oct-2024 23:34:47 INFO - Initializing ProtocolHandler ["http-nio-9000"]
+19-Oct-2024 23:34:47 INFO - Starting service [Tomcat]
+19-Oct-2024 23:34:47 INFO - Starting Servlet engine: [Apache Tomcat/10.1.30]
+19-Oct-2024 23:34:47 INFO - Initializing Spring embedded WebApplicationContext
+19-Oct-2024 23:34:47 INFO - Root WebApplicationContext: initialization completed in 1470 ms
+19-Oct-2024 23:34:48 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+19-Oct-2024 23:34:48 INFO - HHH000412: Hibernate ORM core version 6.5.3.Final
+19-Oct-2024 23:34:48 INFO - HHH000026: Second-level cache disabled
+19-Oct-2024 23:34:48 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+19-Oct-2024 23:34:48 INFO - HikariPool-1 - Starting...
+19-Oct-2024 23:34:48 INFO - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2ff5d50e
+19-Oct-2024 23:34:48 INFO - HikariPool-1 - Start completed.
+19-Oct-2024 23:34:48 WARN - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+19-Oct-2024 23:34:50 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+19-Oct-2024 23:34:50 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+19-Oct-2024 23:34:51 INFO - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+19-Oct-2024 23:34:51 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+19-Oct-2024 23:34:51 INFO - LiveReload server is running on port 35729
+19-Oct-2024 23:34:51 INFO - Starting ProtocolHandler ["http-nio-9000"]
+19-Oct-2024 23:34:51 INFO - Tomcat started on port 9000 (http) with context path '/'
+19-Oct-2024 23:34:52 INFO - Started TelComServiceAppApplication in 6.152 seconds (process running for 7.917)
+19-Oct-2024 23:35:03 INFO - Application shutdown requested.
+19-Oct-2024 23:35:03 INFO - Stopping ProtocolHandler ["http-nio-9000"]
+19-Oct-2024 23:35:03 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+19-Oct-2024 23:35:03 INFO - HikariPool-1 - Shutdown initiated...
+19-Oct-2024 23:35:03 INFO - HikariPool-1 - Shutdown completed.
+19-Oct-2024 23:35:11 INFO - HV000001: Hibernate Validator 8.0.1.Final
+19-Oct-2024 23:35:11 INFO - Starting TelComServiceAppApplication using Java 21.0.3 with PID 15292 (C:\Users\sahu5\git\Telecommincation_Application\TelCom_ServiceApp\target\classes started by sahu5 in C:\Users\sahu5\git\Telecommincation_Application\TelCom_ServiceApp)
+19-Oct-2024 23:35:11 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2024 23:35:11 INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+19-Oct-2024 23:35:11 INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+19-Oct-2024 23:35:12 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+19-Oct-2024 23:35:12 INFO - Finished Spring Data repository scanning in 46 ms. Found 3 JPA repository interfaces.
+19-Oct-2024 23:35:12 INFO - Tomcat initialized with port 9000 (http)
+19-Oct-2024 23:35:12 INFO - Initializing ProtocolHandler ["http-nio-9000"]
+19-Oct-2024 23:35:12 INFO - Starting service [Tomcat]
+19-Oct-2024 23:35:12 INFO - Starting Servlet engine: [Apache Tomcat/10.1.30]
+19-Oct-2024 23:35:12 INFO - Initializing Spring embedded WebApplicationContext
+19-Oct-2024 23:35:12 INFO - Root WebApplicationContext: initialization completed in 1248 ms
+19-Oct-2024 23:35:13 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+19-Oct-2024 23:35:13 INFO - HHH000412: Hibernate ORM core version 6.5.3.Final
+19-Oct-2024 23:35:13 INFO - HHH000026: Second-level cache disabled
+19-Oct-2024 23:35:13 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+19-Oct-2024 23:35:13 INFO - HikariPool-1 - Starting...
+19-Oct-2024 23:35:13 INFO - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@aee3563
+19-Oct-2024 23:35:13 INFO - HikariPool-1 - Start completed.
+19-Oct-2024 23:35:13 WARN - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+19-Oct-2024 23:35:14 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+19-Oct-2024 23:35:14 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+19-Oct-2024 23:35:15 INFO - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+19-Oct-2024 23:35:15 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+19-Oct-2024 23:35:15 INFO - LiveReload server is running on port 35729
+19-Oct-2024 23:35:15 INFO - Starting ProtocolHandler ["http-nio-9000"]
+19-Oct-2024 23:35:15 INFO - Tomcat started on port 9000 (http) with context path '/'
+19-Oct-2024 23:35:15 INFO - Started TelComServiceAppApplication in 4.494 seconds (process running for 5.657)
+19-Oct-2024 23:35:42 INFO - Application shutdown requested.
+19-Oct-2024 23:35:42 INFO - Stopping ProtocolHandler ["http-nio-9000"]
+19-Oct-2024 23:35:42 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+19-Oct-2024 23:35:42 INFO - HikariPool-1 - Shutdown initiated...
+19-Oct-2024 23:35:42 INFO - HikariPool-1 - Shutdown completed.
